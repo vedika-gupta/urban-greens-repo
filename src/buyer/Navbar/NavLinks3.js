@@ -15,7 +15,7 @@ const NavLinks = () => {
                 ContactUs
             </HashLink>
             <HashLink id="signupButton" className="text-white bg-green-600 hover:bg-green-600 inline-flex items-center justify-center w-auto px-5 py-2 shadow-xl rounded-xl" smooth to="/signup">
-                Sign Up
+                Verify Your Identity
             </HashLink>
         </>
     )
